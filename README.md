@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DiarrayeDia
+- 👀 I’m interested in: Backend dev 
+- 🌱 I’m currently learning : PHP/Symfony @Simplon
+- 💞️ I’m looking to collaborate on : Exciting and social oriented projects! 
+- 📫 How to reach me : linkedin.com/in/diarraye-dia
